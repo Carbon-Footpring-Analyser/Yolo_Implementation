@@ -1,0 +1,14 @@
+train: C:\\Users\\caaka\\OneDrive\\Desktop\\CSP_Reset_Code\\images\\train
+val: C:\\Users\\caaka\\OneDrive\\Desktop\\CSP_Reset_Code\\images\\valid
+test: C:\\Users\\caaka\\OneDrive\\Desktop\\CSP_Reset_Code\\images\\test
+
+
+nc: 7
+names: ['Acrylic Plastic', 'Headphone-Earphone', 'Ipad', 'Laptop', 'Mobile', 'Others', 'air conditioner']
+
+roboflow:
+  workspace: digantawork
+  project: resetingclasses-everything
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/digantawork/resetingclasses-everything/dataset/3
