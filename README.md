@@ -1,6 +1,6 @@
 # YOLO Implementation for Carbon Footprint Analysis
 
-This repository provides an implementation of the YOLO (You Only Look Once) object detection algorithm, tailored for analyzing carbon footprints through object detection in images and videos.
+This repository provides an implementation of the YOLO (You Only Look Once) object detection algorithm specifically for analyzing carbon footprints through object detection in images.
 
 ## Table of Contents
 
